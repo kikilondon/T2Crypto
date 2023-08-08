@@ -11,7 +11,7 @@ Welcome to the T2 Crypto App repository! This app is designed to simplify crypto
 
 Please note that the T2 Crypto App is currently in its final stage as a course project. While it is functional and demonstrates the core features outlined in the project's scope, there are areas that may benefit from further refinement and enhancement. This app was developed as part of a learning exercise, and as such, some functionalities might not be fully optimized or may not represent industry best practices.
 
-##Screenshots
+##Screenshots Landing Page
 
 ![pic1](Screenshots/pic1.png)
 <br>
