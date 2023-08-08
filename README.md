@@ -13,7 +13,7 @@ Please note that the T2 Crypto App is currently in its final stage as a course p
 
 ##Screenshots
 
-![pic1](/Users/chiarapigoni/T2CryptoScreenshots/pic1.png)
-![pic2](/Users/chiarapigoni/T2CryptoScreenshots/pic2.png)
-![pic3](/Users/chiarapigoni/T2CryptoScreenshots/pic3.png)
-![pic4](/Users/chiarapigoni/T2CryptoScreenshots/pic4.png)
+![pic1](Screenshots/pic1.png)
+![pic2](Screenshots/pic2.png)
+![pic3](Screenshots/pic3.png)
+![pic4](Screenshots/pic4.png)
